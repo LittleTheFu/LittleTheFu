@@ -1,3 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleTheFu&show_icons=true&hide_title=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LittleTheFu)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleTheFu&include_all_commits=true&include_all_contributed_to&count_private=true)
