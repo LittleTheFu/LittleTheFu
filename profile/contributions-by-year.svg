@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="634"
+  viewBox="0 0 760 634" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Contributions by Year</title>
+  <desc id="desc">Annual contribution totals from the public GitHub contribution graph.</desc>
+  <style>
+    .title { font: 700 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #24292f; }
+    .subtitle { font: 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #57606a; }
+    .year { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #57606a; }
+    .value { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #24292f; }
+    .track { fill: #eaf2ff; }
+    .bar { fill: #2f80ed; }
+    .footer { font: 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #6e7781; }
+  </style>
+  <rect x="1" y="1" width="758" height="632" rx="12"
+    fill="#ffffff" stroke="#d0d7de"/>
+  <text x="30" y="39" class="title">GitHub Contributions by Year</text>
+  <text x="30" y="63" class="subtitle">Annual totals · LittleTheFu</text>
+  
+    <text x="36" y="123" class="year">2015</text>
+    <rect x="126" y="104" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="104" width="2" height="20" rx="6" class="bar"/>
+    <text x="632" y="120" class="value">1</text>
+    <text x="36" y="162" class="year">2016</text>
+    <rect x="126" y="143" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="143" width="290" height="20" rx="6" class="bar"/>
+    <text x="632" y="159" class="value">697</text>
+    <text x="36" y="201" class="year">2017</text>
+    <rect x="126" y="182" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="182" width="95" height="20" rx="6" class="bar"/>
+    <text x="632" y="198" class="value">228</text>
+    <text x="36" y="240" class="year">2018</text>
+    <rect x="126" y="221" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="221" width="0" height="20" rx="6" class="bar"/>
+    <text x="632" y="237" class="value">0</text>
+    <text x="36" y="279" class="year">2019</text>
+    <rect x="126" y="260" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="260" width="79" height="20" rx="6" class="bar"/>
+    <text x="632" y="276" class="value">191</text>
+    <text x="36" y="318" class="year">2020</text>
+    <rect x="126" y="299" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="299" width="338" height="20" rx="6" class="bar"/>
+    <text x="632" y="315" class="value">813</text>
+    <text x="36" y="357" class="year">2021</text>
+    <rect x="126" y="338" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="338" width="198" height="20" rx="6" class="bar"/>
+    <text x="632" y="354" class="value">475</text>
+    <text x="36" y="396" class="year">2022</text>
+    <rect x="126" y="377" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="377" width="132" height="20" rx="6" class="bar"/>
+    <text x="632" y="393" class="value">317</text>
+    <text x="36" y="435" class="year">2023</text>
+    <rect x="126" y="416" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="416" width="2" height="20" rx="6" class="bar"/>
+    <text x="632" y="432" class="value">2</text>
+    <text x="36" y="474" class="year">2024</text>
+    <rect x="126" y="455" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="455" width="349" height="20" rx="6" class="bar"/>
+    <text x="632" y="471" class="value">840</text>
+    <text x="36" y="513" class="year">2025</text>
+    <rect x="126" y="494" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="494" width="490" height="20" rx="6" class="bar"/>
+    <text x="632" y="510" class="value">1,178</text>
+    <text x="36" y="552" class="year">2026 (YTD)</text>
+    <rect x="126" y="533" width="490" height="20" rx="6" class="track"/>
+    <rect x="126" y="533" width="5" height="20" rx="6" class="bar"/>
+    <text x="632" y="549" class="value">13</text>
+  <text x="30" y="612" class="footer">Source: public GitHub contribution graph · Updated 2026-10-30</text>
+</svg>
