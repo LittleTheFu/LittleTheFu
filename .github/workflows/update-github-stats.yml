@@ -1,5 +1,9 @@
 name: Update GitHub Stats
 
+concurrency:
+  group: update-github-stats
+  cancel-in-progress: false
+
 on:
   push:
     branches: [main]
